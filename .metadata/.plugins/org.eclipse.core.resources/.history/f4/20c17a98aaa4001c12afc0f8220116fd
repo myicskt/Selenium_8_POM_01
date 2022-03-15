@@ -1,0 +1,19 @@
+package Test;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import Util.BrowserFactory;
+
+public class LoginTest {
+	
+	WebDriver driver;
+	// BY creating an Object
+	// By the name of class
+	@Test
+	public void ValidUserBeAbleToLogin() {
+		driver = BrowserFactory.init();
+		
+	}
+
+}

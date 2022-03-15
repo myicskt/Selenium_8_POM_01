@@ -1,0 +1,250 @@
+2022-03-15 13:46:20,043 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-15 13:47:29,901 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-15 13:48:51,108 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mrchapai:6thTestNG:0.0.1-SNAPSHOT @ C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\pom.xml.
+2022-03-15 13:48:51,613 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mrchapai:6thTestNG:0.0.1-SNAPSHOT @ C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\6thTestNG\pom.xml.
+2022-03-15 13:48:51,651 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mrchapai:8thSelenium_POM:0.0.1-SNAPSHOT @ C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\pom.xml.
+2022-03-15 13:48:52,311 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8th_POM/src/main/java
+2022-03-15 13:48:52,312 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8th_POM/src/test/java
+2022-03-15 13:48:52,356 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8thSelenium_POM/src/main/java
+2022-03-15 13:48:52,356 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8thSelenium_POM/src/test/java
+2022-03-15 13:48:52,381 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 4 sec
+2022-03-15 13:48:53,036 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:48:53,036 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\6thTestNG\src\main\resources
+2022-03-15 13:48:53,037 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:48:53,037 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\6thTestNG\src\test\resources
+2022-03-15 13:48:53,209 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:48:53,209 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 13:48:53,210 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:48:53,211 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 13:48:53,353 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:48:53,353 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\main\resources
+2022-03-15 13:48:53,354 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:48:53,355 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\test\resources
+2022-03-15 13:49:07,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:49:07,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\6thTestNG\src\main\resources
+2022-03-15 13:49:07,116 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:49:07,116 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\6thTestNG\src\test\resources
+2022-03-15 13:49:07,120 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:49:07,120 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 13:49:07,121 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:49:07,121 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 13:49:07,125 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:49:07,125 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\main\resources
+2022-03-15 13:49:07,125 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:49:07,126 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\test\resources
+2022-03-15 13:49:59,250 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-15 13:58:13,757 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:58:13,758 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 13:58:13,763 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:58:13,763 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 13:59:32,256 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:59:32,257 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 13:59:32,258 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 13:59:32,260 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:00:00,388 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:00:00,389 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:00:00,390 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:00:00,391 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:00:10,990 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:00:10,991 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:00:10,992 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:00:10,992 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:02:52,715 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:02:52,716 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:02:52,716 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:02:52,716 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:02:58,390 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:02:58,390 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:02:58,391 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:02:58,391 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:06:17,264 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:06:17,265 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:06:17,266 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:06:17,266 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:07:23,930 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:07:23,931 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:07:23,933 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:07:23,933 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:07:42,789 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:07:42,789 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:07:42,790 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:07:42,790 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:09:53,206 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:09:53,206 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:09:53,207 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:09:53,207 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 14:11:43,436 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:11:43,437 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 14:11:43,437 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 14:11:43,438 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 15:57:38,424 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-15 16:16:39,423 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:16:39,426 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:16:39,427 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:16:39,427 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:17:06,578 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:17:06,578 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:17:06,579 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:17:06,579 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:19:46,839 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:19:46,839 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:19:46,840 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:19:46,841 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:19:59,764 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:19:59,764 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:19:59,765 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:19:59,766 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:21:57,014 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:21:57,014 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:21:57,015 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:21:57,015 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:23:43,191 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:23:43,192 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:23:43,193 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:23:43,193 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:24:06,075 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:24:06,075 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:24:06,075 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:24:06,075 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:25:16,532 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:25:16,532 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:25:16,534 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:25:16,535 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:25:43,272 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:25:43,272 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:25:43,272 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:25:43,273 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:25:57,653 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:25:57,653 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:25:57,654 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:25:57,654 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:27:08,893 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:27:08,893 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:27:08,894 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:27:08,895 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:37:51,418 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:37:51,418 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:37:51,419 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:37:51,419 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:39:42,390 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:39:42,391 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:39:42,392 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:39:42,392 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:40:27,189 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:40:27,189 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:40:27,190 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:40:27,190 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:43:34,314 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:43:34,315 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:43:34,316 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:43:34,316 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:46:29,024 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:46:29,025 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:46:29,026 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:46:29,026 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:47:53,437 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:47:53,437 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:47:53,438 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:47:53,438 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:51:26,324 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:51:26,325 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\main\resources
+2022-03-15 16:51:26,326 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:51:26,326 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\test\resources
+2022-03-15 16:55:15,249 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:55:15,249 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\main\resources
+2022-03-15 16:55:15,250 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:55:15,250 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8th_POM\src\test\resources
+2022-03-15 16:55:39,003 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:55:39,003 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:55:39,004 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:55:39,004 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:57:06,530 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:57:06,531 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:57:06,531 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:57:06,531 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 16:57:30,758 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:57:30,758 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 16:57:30,759 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 16:57:30,759 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 17:01:46,687 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:01:46,687 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\main\resources
+2022-03-15 17:01:46,688 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:01:46,688 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM\src\test\resources
+2022-03-15 17:01:47,154 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mrchapai:8thSelenium_POM:0.0.1-SNAPSHOT @ C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\pom.xml.
+2022-03-15 17:01:47,555 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:01:47,556 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:01:47,557 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:01:47,557 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:01:48,767 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:01:48,768 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:01:48,769 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:01:48,769 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:02:06,416 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:02:06,416 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:02:06,417 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:02:06,417 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:02:53,366 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:02:53,366 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:02:53,367 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:02:53,367 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:02:59,551 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:02:59,552 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:02:59,552 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:02:59,552 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:03:07,082 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:03:07,082 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:03:07,084 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:03:07,084 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:03:48,519 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:03:48,520 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:03:48,521 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:03:48,521 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:04:48,603 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:04:48,604 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:04:48,604 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:04:48,604 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:19:34,124 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mrchapai:8thSelenium_POM:0.0.1-SNAPSHOT @ C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\pom.xml.
+2022-03-15 17:19:34,564 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:19:34,564 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:19:34,565 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:19:34,565 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:20:38,734 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:20:38,735 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:20:38,737 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:20:38,737 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:20:47,638 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:20:47,639 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:20:47,639 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:20:47,639 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:21:24,110 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:21:24,110 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:21:24,111 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:21:24,111 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:24:48,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:24:48,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:24:48,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:24:48,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:25:20,280 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:25:20,281 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:25:20,281 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:25:20,281 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:25:47,272 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:25:47,272 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:25:47,273 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:25:47,273 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:30:43,902 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:30:43,902 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:30:43,903 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:30:43,903 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:31:04,033 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:31:04,033 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:31:04,034 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:31:04,034 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:32:48,098 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:32:48,098 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:32:48,099 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:32:48,099 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources
+2022-03-15 17:35:11,701 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:35:11,701 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\main\resources
+2022-03-15 17:35:11,701 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-15 17:35:11,701 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\8thSelenium_POM2\src\test\resources

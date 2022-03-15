@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\myics\iCloudDrive\Study\QA_Auto\PROJECT_JAVA_SELENIUM\SELENIUM_PROJECT\.metadata\.plugins\org.eclipse.jdt.core
+3879199130.index
+4056437187.index
+1865797976.index
+1166605869.index
+407496022.index
